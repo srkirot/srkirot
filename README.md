@@ -11,6 +11,7 @@ I'm passionate about programming and data analysis. I'm a technology enthusiast 
 - **Spark (PySpark)**: I love working with Spark for large-scale data processing.
 - **SQL**: Solid experience in handling relational databases and SQL queries.
 - **Git**: I use Git for version control and collaboration in software development projects.
+- **A/B Testing**: Proficient in designing, conducting, and analyzing A/B tests to drive data-driven decision making and optimize performance
 
 ### Libraries
 - **pandas**: For data analysis and manipulation.
